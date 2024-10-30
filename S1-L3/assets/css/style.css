@@ -21,6 +21,11 @@ main {
     width: 105vh;
 }
 
+#descrizione{
+    text-align: center;
+    color: lightgrey;
+}
+
 #color_p{
     color:red;
 }
