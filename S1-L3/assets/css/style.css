@@ -1,4 +1,4 @@
-body {
+main {
     font-family: Georgia, 'Times New Roman', Times, serif;
     width: 110vh;
     margin: 0 auto;
@@ -14,6 +14,7 @@ body {
 #sottotitolo{
     text-align: center;
     background-color: lightyellow;
+    color: rgb(28, 142, 104);
 }
 
 #focaccia{
